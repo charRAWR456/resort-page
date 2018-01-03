@@ -1,0 +1,17 @@
+body {
+  background-color: #b7e8f7;
+  text-align: center;
+  font-family: fantasy;
+}
+
+h1 {
+color: darkblue;
+}
+
+h2 {
+color: #3e197f;
+}
+
+ul{
+  list-style-position: inside;
+}
